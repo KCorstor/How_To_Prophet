@@ -1,3 +1,3 @@
 # How_To_Prophet
 
-# Forecasting Net Profit and predicting risk with Supervised Learning
+# Forecasting net profit with time series analysis
